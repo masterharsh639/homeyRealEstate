@@ -6,7 +6,7 @@ import HeaderSection from "./Component/HeaderSection/HeaderSection";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <HeaderSection/>
       {/* <HeroSection /> */}
     </div>
